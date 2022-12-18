@@ -1,5 +1,12 @@
 /* Gobal */
 
+:root {
+  --Color-White: #ffffff;
+  --Color-Light-Gray: #d6e2f0;
+  --Color-Grayish-Blue: #7b879d;
+  --Color-Dark-Blue: #1f3251;
+}
+
 html {
   font-size: 62.5%; /* Reset browsers font size to 10px */
 }
