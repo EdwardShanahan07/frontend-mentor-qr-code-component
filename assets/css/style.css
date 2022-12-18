@@ -1,0 +1,11 @@
+/* Gobal */
+
+html {
+  font-size: 62.5%; /* Reset browsers font size to 10px */
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
