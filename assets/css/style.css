@@ -43,3 +43,14 @@ body {
   border-radius: 10px;
   margin-bottom: 3.2rem;
 }
+
+h1 {
+  color: var(--Color-Dark-Blue);
+  font-size: 2rem;
+  margin-bottom: 2.4rem;
+}
+
+p {
+  color: var(--Color-Grayish-Blue);
+  font-size: 1.5rem;
+}
